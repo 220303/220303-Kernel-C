@@ -1,6 +1,9 @@
 # 220303-Kernel-C
 An operating system kernel by C .
 
+## Function Introduction
+Save it for the future
+
 ## Building Configuration
 ![Ubuntu](https://github.com/user-attachments/assets/139900f5-28a0-40b9-b61f-cccafe84125f)
 
